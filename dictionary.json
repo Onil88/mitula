@@ -1,1 +1,1 @@
-{"name":"mitula","display_name":"mitula","owner":"Onil88","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"58087652f161c31100be487a"}
+{"name":"mitula","display_name":"mitula","owner":"Onil88","auth_method":"Basic","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"58087652f161c31100be487a","base_endpoint":"http://www.mitula.com/trafficStatistics"}
